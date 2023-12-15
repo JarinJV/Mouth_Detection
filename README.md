@@ -1,5 +1,13 @@
 # Mouth_Detection
 
+## Instructions for Utilizing Our Emotion Detection Model
+1. Begin by downloading and extracting our repository.
+2. Execute the 'gui_task1.py' file to launch the graphical user interface.
+3. Upload an image and initiate the mouth detection process by clicking the detect mouth button.
+4. Use the images in the 'images' file or can use your own.
+Note: The model performs optimally when provided with facial images.
+I have provided the 'output' file as a reference, containing the project results in the form of a screenshot.
+
 ## Report on Mouth Detection with Haarcascade for Emotion Detection
 
 ### Introduction

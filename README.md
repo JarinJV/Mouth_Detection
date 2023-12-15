@@ -1,6 +1,6 @@
 # Mouth_Detection
 
-## Instructions for Utilizing Our Emotion Detection Model
+## Instructions for Utilizing Our Mouth Detection Model
 1. Begin by downloading and extracting our repository.
 2. Execute the 'gui_task1.py' file to launch the graphical user interface.
 3. Upload an image and initiate the mouth detection process by clicking the detect mouth button.
